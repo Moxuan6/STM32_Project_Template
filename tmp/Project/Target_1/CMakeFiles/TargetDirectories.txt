@@ -1,0 +1,4 @@
+/Users/jeremy/Documents/STM32项目/项目模版/tmp/Project/Target_1/CMakeFiles/database.dir
+/Users/jeremy/Documents/STM32项目/项目模版/tmp/Project/Target_1/CMakeFiles/Project.dir
+/Users/jeremy/Documents/STM32项目/项目模版/tmp/Project/Target_1/CMakeFiles/edit_cache.dir
+/Users/jeremy/Documents/STM32项目/项目模版/tmp/Project/Target_1/CMakeFiles/rebuild_cache.dir

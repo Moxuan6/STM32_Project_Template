@@ -1,0 +1,8 @@
+# CMSIS Build Audit File generated on 2023-07-23T00:06:13
+
+# Project Description File: /Users/jeremy/Documents/STM32项目/项目模版/Project+Target_1.cprj
+
+# Toolchain Configuration File: /Users/jeremy/.vcpkg/artifacts/fd3d78d7/tools.open.cmsis.pack.cmsis.toolbox/2.0.0/etc/AC6.6.18.0.cmake
+
+# Package: Keil.STM32F1xx_DFP.2.4.1
+  Location: /Users/jeremy/.cache/arm/packs/Keil/STM32F1xx_DFP/2.4.1/
